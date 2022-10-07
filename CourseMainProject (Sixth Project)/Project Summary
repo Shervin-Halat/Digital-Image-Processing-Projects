@@ -1,0 +1,6 @@
+This project was the main and last project of my 'Digital Image Processing' course (Course Project).
+This Project is about the implementation of a recent IEEE Journal Paper named 'A Fast Image Dehazing Algorithm Using Morphological Reconstruction'.
+## Paper address: 
+https://ieeexplore.ieee.org/document/8568017
+This folder contains the implementation (implemented by myself), project report, and the paper file.
+Also, the folder contains both hazy images and dehazed images obtained by the implemented code.
