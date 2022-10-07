@@ -1,0 +1,2 @@
+This folder contains raw hazy images to be dehazed by the implemented algorithm.
+Hint: Some of these images were considered by the paper to evaluate the algorithm introduced by the authors. 
